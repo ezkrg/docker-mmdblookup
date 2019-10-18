@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM ezkrg/geoipupdate:latest
 
 ENV VERSION=1.3.2
 
